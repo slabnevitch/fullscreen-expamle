@@ -9,6 +9,9 @@
 			width: 100%;
 			text-align: center;
 			/*   position: relative; */
+			background: url(desk.png) center center no-repeat;
+			-webkit-background-size: cover;
+			background-size: cover;
 
 		}
 		header img{
@@ -21,16 +24,15 @@
 			object-fit: cover; 
 			object-position: center center;
 		}
+		@media only screen and (max-width: 768px) {
+			header{
+				background-image: url(mob.png);
+			}
+		}
 	</style>
 </head>
 <body>
 	<header>
-		
-		<picture>    <source srcset="https://s2.best-wallpaper.net/wallpaper/iphone/1808/Abkhazia-Gagra-sea-beach-boats-mountains-forest_iphone_750x1334.jpg" media="(max-width: 768px)">    <source srcset="https://img4.goodfon.ru/original/2560x1440/5/2d/gagra-gagra-abkhaziia-abkhazia.jpg">    <img srcset="https://img4.goodfon.ru/original/2560x1440/5/2d/gagra-gagra-abkhaziia-abkhazia.jpg" alt="My default image"></picture>
-		<picture>
-
-		</picture>
-		
 	</header>
 </body>
 </html>
