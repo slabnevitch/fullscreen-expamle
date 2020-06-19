@@ -21,7 +21,7 @@
 			width: 100%;
 			text-align: center;
 			/*   position: relative; */
-			background: url(desktop-ready.jpg) center center no-repeat;
+			background: url(latest-desktop.jpg) center center no-repeat;
 			-webkit-background-size: cover;
 			background-size: cover;
 
@@ -41,6 +41,6 @@
 				height: 110px;
 			}
 			header{
-				background-image: url(petrobalt-mobile.jpg);
+				background-image: url(latest-mobile.jpg);
 			}
 		}
