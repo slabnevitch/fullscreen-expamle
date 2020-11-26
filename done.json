@@ -1,0 +1,133 @@
+[
+     {
+        "id": 524894,
+        "name": "Moscow",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 37.606667,
+            "lat": 55.761665
+        }
+    },
+     {
+        "id": 452063,
+        "name": "Dubrovka",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 34.983971,
+            "lat": 56.997929
+        }
+    },
+    {
+        "id": 452949,
+        "name": "Udomlya",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 34.9925,
+            "lat": 57.87944
+        }
+    },
+    {
+        "id": 452960,
+        "name": "Leninskiy",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 34.085911,
+            "lat": 57.868858
+        }
+    },
+    {
+        "id": 1488754,
+        "name": "Tyumen",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 65.527222,
+            "lat": 57.152222
+        }
+    },
+    
+    {
+        "id": 505257,
+        "name": "Urzuf",
+        "state": "",
+        "country": "UA",
+        "coord": {
+            "lon": 37.099609,
+            "lat": 46.915619
+        }
+    },
+    {
+        "id": 613273,
+        "name": "Lebedyn",
+        "state": "",
+        "country": "UA",
+        "coord": {
+            "lon": 34.484901,
+            "lat": 50.585178
+        }
+    },
+    {
+        "id": 616196,
+        "name": "Staryy Dobrotvir",
+        "state": "",
+        "country": "UA",
+        "coord": {
+            "lon": 24.377001,
+            "lat": 50.231541
+        }
+    },
+    {
+        "id": 618716,
+        "name": "Zolotva",
+        "state": "",
+        "country": "BY",
+        "coord": {
+            "lon": 29.983334,
+            "lat": 53.599998
+        }
+    },
+    {
+        "id": 618768,
+        "name": "Zhukovo",
+        "state": "",
+        "country": "BY",
+        "coord": {
+            "lon": 30.291389,
+            "lat": 53.985832
+        }
+    },
+    {
+        "id": 618781,
+        "name": "Zhuki",
+        "state": "",
+        "country": "BY",
+        "coord": {
+            "lon": 27.4,
+            "lat": 53.150002
+        }
+    },
+    {
+        "id": 618800,
+        "name": "Horad Zhodzina",
+        "state": "",
+        "country": "BY",
+        "coord": {
+            "lon": 28.3325,
+            "lat": 54.098331
+        }
+    },
+    {
+        "id": 618806,
+        "name": "Zhlobin",
+        "state": "",
+        "country": "BY",
+        "coord": {
+            "lon": 30.024,
+            "lat": 52.892601
+        }
+    }
+]
