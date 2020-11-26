@@ -1,5 +1,25 @@
 [
      {
+        "id": 703448,
+        "name": "Kyiv",
+        "state": "",
+        "country": "UA",
+        "coord": {
+            "lon": 30.516666,
+            "lat": 50.433334
+        }
+    },
+    {
+        "id": 625144,
+        "name": "Minsk",
+        "state": "",
+        "country": "BY",
+        "coord": {
+            "lon": 27.566668,
+            "lat": 53.900002
+        }
+    },
+     {
         "id": 524894,
         "name": "Moscow",
         "state": "",
